@@ -1,5 +1,5 @@
+# Bloggy
 
-#Bloggy
 This is a microblogging website built in flask and is largeley influensed from the book
 Flask Web Development by Miguel Grinberg
 
